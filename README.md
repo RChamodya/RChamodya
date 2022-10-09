@@ -11,7 +11,7 @@
 
 - 💬 I’m looking to collaborate on *Web3 Development or Software Development*
 
-- 📫 How to reach me *lkkarunarathne143@gmail.com*
+- 📫 How to reach me *ravinduchamodya1999@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
