@@ -111,4 +111,6 @@
   <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RChamodya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
   <br/>  
-  
+
+  <h3>Dev Card</h3>
+  <a href="https://app.daily.dev/ravij"><img src="https://api.daily.dev/devcards/5467a109669b43339fb25be536155f1c.png?r=lza" width="400" alt="Ravindu Herath's Dev Card"/></a>
